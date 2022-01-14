@@ -6,8 +6,8 @@ Evidence-based practices (EBPs) are a critical component of effective and ethica
 
 ## Figure 1: Alone-Price Demand for Evidence-Based Practices across Reported Gender, Reported Number of Children in the Household, and Level of Reported Education
 
-![Figure 1](Figure 1 - Alone Price.png)
+![Figure 1](Figure%201.png)
 
 ## Figure 2: Cross-Price Demand for Evidence-Based Practices And Respective Alternatives
 
-![Figure 2](Figure 2 - Own Price.png)
+![Figure 2](Figure%202.png)
