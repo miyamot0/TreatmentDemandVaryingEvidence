@@ -166,4 +166,4 @@ ggsave("Figure 1.png",
        plot = plot,
        units = "in",
        height = 6,
-       width = 9, dpi = 600)
+       width = 9, dpi = 300)
